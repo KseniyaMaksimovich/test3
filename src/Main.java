@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Введите первое число");
         int num1 = scanner.nextInt();
 
-        System.out.println("Введите второе число");
+        System.out.println("Введите второеe число");
         int num2 = scanner.nextInt();
 
         System.out.println("Введите операцию");
